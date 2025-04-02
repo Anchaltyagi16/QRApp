@@ -80,7 +80,8 @@ Project Structure
 │   ├── build.gradle
 │── README.md
 │── .gitignore
-│── app-release.apk (for testing)```
+│── app-release.apk (for testing)
+```
 
 
  Implementation Overview 
