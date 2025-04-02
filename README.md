@@ -52,7 +52,7 @@ Install Android Studio (latest version).
 
 Clone the repository:
 
-git clone https://github.com/yourusername/AndroidDeveloperTask.git
+git clone https://github.com/Anchaltyagi16/QRApp.git
 
 Open the project in Android Studio.
 
