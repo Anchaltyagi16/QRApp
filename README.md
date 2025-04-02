@@ -1,6 +1,6 @@
-** Android Developer ** 
+# Android Developer 
 
-Overview
+## Overview
 
 This Android application is developed as part of the Android Developer Internship Selection Process for InfyU Labs. The app demonstrates core Android functionalities, including:
 
@@ -10,9 +10,9 @@ Image Selection from Camera & Gallery
 
 QR Code Scanning
 
-Features
+## Features
 
-1. User Authentication (UI Only)
+## 1. User Authentication (UI Only)
 
 Login and Registration screens with email & password fields.
 
@@ -20,7 +20,7 @@ Form validation (email format, password length).
 
 Navigation from Login to Home Screen (no backend integration).
 
-2. Camera & Gallery Image Selection
+## 2. Camera & Gallery Image Selection
 
 Capture an image using the device camera.
 
@@ -28,7 +28,7 @@ Select an image from the gallery.
 
 Display the selected/captured image in an ImageView.
 
-3. QR Code Scanner
+## 3. QR Code Scanner
 
 Integrated QR code scanner.
 
@@ -68,7 +68,7 @@ Run the application from Android Studio.
 
 Project Structure
 
-AndroidDeveloperTask/
+```AndroidDeveloperTask/
 │── app/
 │   ├── src/
 │   │   ├── main/
@@ -80,9 +80,10 @@ AndroidDeveloperTask/
 │   ├── build.gradle
 │── README.md
 │── .gitignore
-│── app-release.apk (for testing)
+│── app-release.apk (for testing)```
 
-Implementation Overview
+
+ Implementation Overview 
 
 User Authentication (UI Only)
 
