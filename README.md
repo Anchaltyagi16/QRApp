@@ -36,15 +36,15 @@ Extracts and displays text content from a scanned QR code.
 
 Tech Stack & Requirements
 
-Language: Kotlin or Java
+# Language: Kotlin or Java
 
-Camera & Gallery Handling: CameraX / Intent
+# Camera & Gallery Handling: CameraX / Intent
 
-QR Code Scanning: ML Kit / ZXing
+# QR Code Scanning: ML Kit / ZXing
 
-Android SDK Version: 23+
+# Android SDK Version: 23+
 
-Setup Instructions
+## Setup Instructions
 
 Prerequisites
 
@@ -66,7 +66,7 @@ Grant required permissions (Camera & Storage) when prompted.
 
 Run the application from Android Studio.
 
-Project Structure
+# Project Structure
 
 ```AndroidDeveloperTask/
 │── app/
@@ -84,7 +84,7 @@ Project Structure
 ```
 
 
- Implementation Overview 
+ # Implementation Overview 
 
 User Authentication (UI Only)
 
@@ -106,7 +106,7 @@ Displayed the selected image in an ImageView.
 
 Handled runtime permissions for Camera & Storage.
 
-QR Code Scanner
+# QR Code Scanner
 
 Integrated ML Kit / ZXing for QR code scanning.
 
